@@ -1,4 +1,4 @@
-# Excel Dashboard Project For Vrinda Sales Analysis
+# Excel Dashboard Project For Vrinda Store Sales Analysis
 
 ##Table of Contents
 
